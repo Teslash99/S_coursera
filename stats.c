@@ -14,8 +14,6 @@
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
  * @author Aishwarya S
  * @date 24.03.2021
  */
